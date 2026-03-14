@@ -1,7 +1,7 @@
 # NAC LMS Backend API
 
 **Next Art Creations — Learning Management System**  
-Backend Developer Intern: Dhruv Sharma | Jan 2026 – Jul 2026
+Backend Developer Intern: Dhruv Sharma | Jan 2026 – June 2026
 
 ---
 
